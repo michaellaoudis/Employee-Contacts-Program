@@ -16,7 +16,7 @@ DELETE = 4
 QUIT = 5
 
 # Global constant for the filename
-FILENAME = 'employees.dat'
+FILENAME = 'employees.dat'                     # Change to file destination to store contacts
 
 
 def main():
